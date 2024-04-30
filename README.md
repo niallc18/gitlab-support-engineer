@@ -41,7 +41,7 @@ Code review is a great feature of Git, as it enables developers to verify that c
 
 Branches are another great feature of Git; this plays into the point of collaboration. When using Git, developers can create a branch to work on separately from the master branch. This enables developers to work on separate features without affecting the codebase; this is efficient and applies to many development teams. Once a feature is completed, it can then be sent off for code review, and if granted, the feature branch can then be merged with the master branch. This now means the codebase is updated with the new feature, but without having to deal with unnecessary downtime or conflicts. 
 
-Git is used by many and can quite simply make your development journey much simpler and pain-free!
+Git is used by many and can quite simply make your development journey more fun and pain-free!
 
 ## Task 4 (Bug)
 
