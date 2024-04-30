@@ -29,6 +29,8 @@ done
 - Step 7: ```git merge feture-branch -m "merge"```
 - Step 8: ```git add <file>``` then ```git commit -m "fourth commit"```
 
+![github-branch](https://github.com/niallc18/gitlab-support-engineer/assets/109161441/6b4d1cee-3661-49c5-a62a-dcd7f2d0eeb3)
+
 ## Task 3 (Blog)
 
 What is Git? Arguably the most common question when sitting in a lecture hall with first-year computer science students. Git (Global Information Tracker) is a distributed version control system that allows developers from all over the world to collaborate on projects. You may be wondering: how does Git allow developers to collaborate, and why is it so useful? 
